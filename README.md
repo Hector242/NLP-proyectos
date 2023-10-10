@@ -14,3 +14,5 @@ On this first challange you will find how to do a vectorization without any spec
 
 At the end there is a comparison between this vectorization method applied to a small corpus.
 
+### Second challange
+
