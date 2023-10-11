@@ -60,3 +60,9 @@ Skip-gram
 ![Skip-gram](Challange_3/Skip_gram.png)
 
 ### Fourth challange
+
+Fourth challange is about predicting the next word using neural networks and LSTM architecture. Futhermore, we explore the use of Greedy Search and Beam Search to find the next word.
+
+![next-word](next-word.png)
+
+### Fifth challange
