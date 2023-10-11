@@ -16,3 +16,35 @@ At the end there is a comparison between this vectorization method applied to a 
 
 ### Second challange
 
+On the second challange you will find a chatbot for "emergency calls". Al text entry was preprocessed with spacy using the spanish pipeline. After that, TF-IDF was implemented as a vectorization technique and a small neural network was built to solve this multiclassification problem.
+
+here is part of the output from the bot.
+
+```
+hola
+Q: hola
+1/1 [==============================] - 0s 26ms/step
+BOT: Bienvenido a MedicOnline. ¿En que te puedo ayudar?
+tengo alguna cita programada?
+Q: tengo alguna cita programada?
+1/1 [==============================] - 0s 27ms/step
+BOT: No se encontraron citas programadas
+me gustaría programar una cita
+Q: me gustaría programar una cita
+1/1 [==============================] - 0s 33ms/step
+BOT: ¿Para cuando quieres tu cita?
+realmente tengo una urgencia
+Q: realmente tengo una urgencia
+1/1 [==============================] - 0s 29ms/step
+BOT: Hola! Bienvinido a MedicOnline. ¿En que te puedo ayudar?
+tengo una emergencia
+Q: tengo una emergencia
+1/1 [==============================] - 0s 24ms/step
+BOT: Envíe su ubicación y una ambulancia andará en camino
+me puedo contactar con un doctor
+Q: me puedo contactar con un doctor
+1/1 [==============================] - 0s 26ms/step
+BOT: Enseguida lo derivaremos con un doctor de urgencias...
+gracias
+```
+### Third challange
