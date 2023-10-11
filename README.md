@@ -66,3 +66,7 @@ Fourth challange is about predicting the next word using neural networks and LST
 ![next-word](next-word.png)
 
 ### Fifth challange
+
+Fifth challange is about sentiment analysis. Where we had to worked with an imbalance dataset of customer reviews. The main gol on this project is to extract if their experience shopping in the shop was positive, neutral or negative.
+
+![analysis](sentimentanalysishotelgeneric-2048x803-1.jpg)
