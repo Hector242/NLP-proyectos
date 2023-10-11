@@ -70,3 +70,31 @@ Fourth challange is about predicting the next word using neural networks and LST
 Fifth challange is about sentiment analysis. Where we had to worked with an imbalance dataset of customer reviews. The main gol on this project is to extract if their experience shopping in the shop was positive, neutral or negative.
 
 ![analysis](sentimentanalysishotelgeneric-2048x803-1.jpg)
+
+### Sixth challange
+
+Sixth challange is about making a QA bot using Seq2Seq that works with a coder and decoder architecture. Moreover, we used a pretrained embeddings with FastText.
+
+```
+Q: what do you do for a living?
+Response: i am a student
+Do you read?
+1/1 [==============================] - 0s 22ms/step
+1/1 [==============================] - 0s 23ms/step
+1/1 [==============================] - 0s 22ms/step
+1/1 [==============================] - 0s 22ms/step
+1/1 [==============================] - 0s 21ms/step
+1/1 [==============================] - 0s 24ms/step
+1/1 [==============================] - 0s 23ms/step
+1/1 [==============================] - 0s 21ms/step
+1/1 [==============================] - 0s 22ms/step
+1/1 [==============================] - 0s 23ms/step
+1/1 [==============================] - 0s 24ms/step
+1/1 [==============================] - 0s 25ms/step
+1/1 [==============================] - 0s 23ms/step
+1/1 [==============================] - 0s 21ms/step
+Q: Do you read?
+Response: i like to read
+```
+
+I hope you find something you like here. :alien:
