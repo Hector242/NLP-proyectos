@@ -48,3 +48,15 @@ BOT: Enseguida lo derivaremos con un doctor de urgencias...
 gracias
 ```
 ### Third challange
+
+The third challange is related to Word2Vec using two algoritms (CBOW and Skip-gram). Furthermore, in this project we build our custome embedding with Gensim. In this way the following example is the word relationship using as a corpus a book from Stephen King "The Shining".
+
+CBOW
+
+![CBOW](Challange_3/CBOW_ST.png)
+
+Skip-gram
+
+![Skip-gram](Challange_3/Skip_gram.png)
+
+### Fourth challange
